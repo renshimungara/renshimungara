@@ -8,12 +8,13 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 
 ##  About Me
 
--  Currently learning Advanced Spring Boot & Microservices
--  Building Backend Applications using Java & Spring Boot
--  Designing Modern UI/UX using Figma
--  Developing REST APIs with clean architecture
--  Working with MySQL & Database Design
--  Continuously improving Problem Solving & DSA skills
+- Learning Advanced Spring Boot, Microservices & System Design
+- Java Backend Developer passionate about building scalable applications
+- Developing RESTful APIs using Spring Boot and clean architecture
+- Experienced with MySQL, JPA/Hibernate
+- Exploring Spring Security and JWT Authentication
+- Strong interest in Data Structures, Algorithms & Problem Solving
+- Continuously improving backend development and software engineering skills
 
 ---
 
@@ -23,11 +24,10 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 |-----------|---------|
 | Programming | Java, OOP |
 | Backend | Spring Boot, Spring MVC, REST APIs |
-| Database | MySQL, JPA, Hibernate |
+| Database | MySQL, JPA |
 | Security | JWT Authentication, Spring Security |
 | Tools | Git, GitHub, Maven, Postman |
-| Design | Figma, Canva |
-| Problem Solving | Data Structures & Algorithms |
+| Problem Solving | Data Structures & Algorithms (DSA) |
 
 ---
 
@@ -62,21 +62,20 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rensimungara">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:renshimungara@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://github.com/renshimungara">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+
 
 </p>
 
 ---
 
-###  Contact
-
- renshimungara@gmail.com
-
-📍 Surat, Gujarat, India
-
----
 
 <h3 align="center">
 Thank You For Visiting My Profile 
