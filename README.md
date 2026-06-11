@@ -31,15 +31,7 @@ Java Spring Boot Developer | UI/UX Designer | REST API Developer
 
 ---
 
-##  Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,github,postman,figma,vscode"/>
-
-</p>
-
----
 
 ##  Featured Projects
 
@@ -61,37 +53,6 @@ Java Spring Boot Developer | UI/UX Designer | REST API Developer
 
 ---
 
-###  Traffic Accident Analysis & Risk Prediction
-
-- Data Analysis using Python
-- Risk Prediction Models
-- Data Visualization
-- Machine Learning Concepts
-
----
-
-###  UI/UX Design Portfolio
-
-- Mobile App Design
-- Web Application Design
-- Figma Prototypes
-- User-Centered Design
-
----
-
-##  GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=renshimungara&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renshimungara&theme=tokyonight"/>
-
-</p>
-
----
 
 ##  Connect With Me
 
