@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Rensi Mungara</h1>
 
 <h3 align="center">
-Java Spring Boot Developer | UI/UX Designer | REST API Developer
+Java Spring Boot Developer | REST API Developer
 </h3>
 
 ---
