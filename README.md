@@ -63,11 +63,11 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 </a>
 
 <a href="mailto:renshimungara@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/renshimungara">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="www.linkedin.com/in/rensimungara">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 
