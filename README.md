@@ -23,7 +23,7 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 | Category | Skills |
 |-----------|---------|
 | Programming | Java, OOP |
-| Backend | Spring Boot, Spring MVC, REST APIs |
+| Backend | Spring Boot, REST APIs |
 | Database | MySQL, JPA |
 | Security | JWT Authentication, Spring Security |
 | Tools | Git, GitHub, Maven, Postman |
