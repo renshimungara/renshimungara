@@ -12,7 +12,6 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 - Java Backend Developer passionate about building scalable applications
 - Developing RESTful APIs using Spring Boot and clean architecture
 - Experienced with MySQL, JPA/Hibernate
-- Exploring Spring Security and JWT Authentication
 - Strong interest in Data Structures, Algorithms & Problem Solving
 - Continuously improving backend development and software engineering skills
 
@@ -25,13 +24,11 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 | Programming | Java, OOP |
 | Backend | Spring Boot, REST APIs |
 | Database | MySQL, JPA |
-| Security | JWT Authentication, Spring Security |
+| Security | Spring Security |
 | Tools | Git, GitHub, Maven, Postman |
 | Problem Solving | Data Structures & Algorithms (DSA) |
 
 ---
-
-
 
 ##  Featured Projects
 
@@ -52,7 +49,6 @@ Aspiring Backend Developer | Spring Boot | Java | REST APIs | MySQL | JPA
 - Spring Boot + JPA
 
 ---
-
 
 ##  Connect With Me
 
